@@ -1,0 +1,18 @@
+# Xcode specific files
+*.xcuserstate
+*.xcworkspace
+*.xccheckout
+*.moved-aside
+DerivedData/
+.DS_Store
+*.swp
+*.xcuserdatad/
+*.idea/
+Pods/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+/Pods/
