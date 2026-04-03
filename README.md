@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Kareem 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AWS+Certified;C%2B%2B+%7C+Qt+%7C+Web+%7C+Mobile;Open+to+Software+Engineering+Opportunities" />
+</p>
+
 <p align="center">
 Full-Stack Developer • Cloud & Security • AWS Certified
 </p>
@@ -6,16 +11,32 @@ Full-Stack Developer • Cloud & Security • AWS Certified
 <br/>
 
 ## 🚀 About Me
-- Computer Science graduate from Western University
-- AWS Certified Cloud Practitioner
-- Experience building full-stack web, mobile, and desktop applications
-- Interested in software engineering and cybersecurity roles
-- Based in London, Ontario
+- Computer Science graduate from Western University  
+- AWS Certified Cloud Practitioner  
+- Experience building full-stack web, mobile, and desktop applications  
+- Interested in software engineering and cybersecurity roles  
+- Based in London, Ontario  
+
+---
 
 ## 🛠️ Tech Stack
 **Languages:** Java, Python, C++, JavaScript, TypeScript, PHP, SQL  
 **Frameworks & Tools:** Qt, Angular, SwiftUI, Node.js, REST APIs, Git  
 **Cloud & Security:** AWS (EC2, S3, Lambda, RDS, VPC), IAM, JWT, RBAC  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krahme1&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krahme1&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 🌟 Featured Projects
 
