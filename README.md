@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Kareem 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AWS+Certified;C%2B%2B+%7C+Qt+%7C+Web+%7C+Mobile;Open+to+Software+Engineering+Opportunities" />
 </p>
-
 <p align="center">
 Full-Stack Developer • Cloud & Security • AWS Certified
 </p>
-
 <br/>
 
 ## 🚀 About Me
@@ -21,17 +18,15 @@ Full-Stack Developer • Cloud & Security • AWS Certified
 
 ## 🛠️ Tech Stack
 **Languages:** Java, Python, C++, JavaScript, TypeScript, PHP, SQL  
-**Frameworks & Tools:** Qt, Angular, SwiftUI, Node.js, REST APIs, Git  
+**Frameworks & Tools:** Qt, Angular, SwiftUI, Node.js, REST APIs, Git, Laravel  
 **Cloud & Security:** AWS (EC2, S3, Lambda, RDS, VPC), IAM, JWT, RBAC  
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krahme1&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krahme1&theme=tokyonight" />
 </p>
@@ -49,6 +44,12 @@ Full-Stack Developer • Cloud & Security • AWS Certified
 ### 🎪 TOME – Taste of the Middle East
 Production event booking and booth rental platform with an iOS app and Angular web application, supporting vendor onboarding, booth selection, and Stripe payments.  
 🔗 https://github.com/Krahme1/tome-platform  
+
+---
+
+### 🔧 Vehikl Oil Change Challenge
+Laravel 12 take-home application built for Vehikl's technical hiring process, covering the full MVC stack, Eloquent relationships, and Blade templating.  
+🔗 https://github.com/Krahme1/vehikl-oil-change-challenge  
 
 ---
 
