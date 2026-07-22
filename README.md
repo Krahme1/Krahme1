@@ -25,16 +25,17 @@ Full-Stack Developer • Cloud & Security • AWS Certified
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krahme1&theme=tokyonight&show_icons=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Krahme1&theme=tokyonight&show_icons=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krahme1&theme=tokyonight&layout=compact" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Krahme1&theme=tokyonight&layout=compact" />
 </p>
 
 ---
 
 ## 🚧 Currently Building
 - **Job Application Tracker & AI Resume Builder** — full-stack platform to track applications and manage tailored resumes (Next.js, TypeScript, Prisma)  
+- **Lip-Syncing Detection Research** — contributing to a Python research codebase (Spleeter, chroma fingerprinting, PYIN pitch extraction, Q-learning) as part of an RA opportunity with a Western University professor  
 - Expanding skills in **cloud security, backend systems, and scalable application design**
 
 ---
@@ -48,7 +49,7 @@ Production event booking and booth rental platform with an iOS app and Angular w
 ---
 
 ### 🔧 Vehikl Oil Change Challenge
-Laravel 12 take-home application built for Vehikl's technical hiring process, covering the full MVC stack, Eloquent relationships, and Blade templating.  
+Laravel 12 application covering the full MVC stack, Eloquent relationships, and Blade templating.  
 🔗 https://github.com/Krahme1/vehikl-oil-change-challenge  
 
 ---
