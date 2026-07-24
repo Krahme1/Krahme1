@@ -99,3 +99,4 @@ Full-stack PHP + MySQL application for managing menu items, customer orders, and
 * Email: [rahmekareem@gmail.com](mailto:rahmekareem@gmail.com)
 * LinkedIn: https://linkedin.com/in/kareemrahme
 * GitHub: https://github.com/Krahme1
+* Phone/Text: +1 (226) 973-9012
